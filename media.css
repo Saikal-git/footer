@@ -1,0 +1,172 @@
+@media (max-width: 1440px) {
+}
+@media (max-width: 1200px) {
+  .partners h1 {
+    font-size: 16px;
+  }
+  .partners {
+    width: 800px;
+  }
+  .partners img {
+    width: 55px;
+  }
+  .vkTg img {
+    width: 20px;
+  }
+  .checkbox p {
+    font-size: 11.6px;
+  }
+}
+@media (max-width: 1024px) {
+  .img1 {
+    display: none;
+  }
+  .navigate {
+    display: flex;
+    gap: 30px;
+  }
+  .navi a {
+    font-size: 13px;
+  }
+  .partners {
+    width: 600px;
+  }
+}
+@media (max-width: 992px) {
+  .footerLogo {
+    width: 160px;
+  }
+  .first p {
+    font-size: 11px;
+  }
+  .first h5 {
+    font-size: 10px;
+  }
+  .time span {
+    font-style: 5px;
+  }
+  .navi a {
+    font-size: 11px;
+  }
+  .block2 h1 {
+    font-size: 14px;
+  }
+  .input1 {
+    width: 280px;
+    height: 25px;
+    padding: 4px 7px;
+  }
+  .input2 {
+    width: 280px;
+    height: 50px;
+    padding: 0 7px 13px 7px;
+  }
+  .checkbox p {
+    font-size: 11px;
+  }
+  .block2 button {
+    margin: 8px 0;
+    width: 105px;
+    height: 40px;
+  }
+  .app-img img {
+    width: 138px;
+  }
+  .partners h1 {
+    font-size: 15px;
+  }
+  .partners img {
+    width: 50px;
+  }
+  .partners {
+    padding: 50px 0;
+  }
+}
+@media (max-width: 768px) {
+  #footer {
+    height: 750px;
+  }
+  .blocks {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .block2 {
+    display: flex;
+  }
+}
+@media (max-width: 576px) {
+  .block1Start {
+    gap: 15px;
+  }
+  .navigate {
+    gap: 10px;
+  }
+  .img2 {
+    display: flex;
+    display: none;
+  }
+  .partners {
+    width: 500px;
+  }
+}
+@media (max-width: 451px) {
+  .partners {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .block1Start {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  #footer {
+    height: 1000px;
+  }
+  .partners {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 450px;
+  }
+  .navigate {
+    gap: 40px;
+  }
+  .app-img img {
+    width: 150px;
+  }
+  .vkTg img {
+    width: 40px;
+  }
+}
+@media (max-width: 400px) {
+  .block1Start {
+    display: flex;
+    gap: 30px;
+    right: 80px;
+    margin-right: -8px;
+  }
+  .partners {
+    width: 347px;
+  }
+}
+@media (max-width: 376px) {
+}
+@media (max-width: 320px) {
+  #footer {
+    height: 1030px;
+  }
+  .app-img img {
+    width: 133px;
+  }
+  .block2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .partners {
+    width: 300px;
+  }
+  .block1Start {
+    margin-right: 0px;
+  }
+}
